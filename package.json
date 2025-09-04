@@ -1,0 +1,24 @@
+{
+  "name": "ctrlz-cli",
+  "version": "0.1.5",
+  "description": "Tu mente tiene un ctrl+z - IA local para restaurar tu contexto cognitivo",
+  "bin": {
+    "ctrlz": "./bin/ctrlz.js"
+  },
+  "scripts": {
+    "postinstall": "node ./bin/download-binary.js"
+  },
+  "keywords": ["productivity", "ai", "cli", "context"],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "homepage": "https://ctrlz.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patdiletx/ctrlz.git"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "os": ["win32"],
+  "cpu": ["x64"]
+}
