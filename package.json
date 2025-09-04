@@ -14,7 +14,7 @@
   "homepage": "https://ctrlz.app",
   "repository": {
     "type": "git",
-    "url": "https://github.com/patdiletx/ctrlz.git"
+    "url": "https://github.com/patdiletx/ctrlz-npm.git"
   },
   "engines": {
     "node": ">=14.0.0"
