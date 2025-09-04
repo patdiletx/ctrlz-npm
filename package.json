@@ -1,5 +1,5 @@
 {
-  "name": "ctrlz-cli",
+  "name": "ctrlz-cli-dev",
   "version": "0.1.6",
   "description": "Tu mente tiene un ctrl+z - IA local para restaurar tu contexto cognitivo",
   "bin": {
