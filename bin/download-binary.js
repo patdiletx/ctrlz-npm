@@ -3,7 +3,7 @@ const https = require('https');
 const fs = require('fs');
 const path = require('path');
 
-const BINARY_URL = 'https://github.com/patdiletx/ctrlz/releases/download/v0.1.0/ctrlz.exe';
+const BINARY_URL = 'https://github.com/patdiletx/ctrlz/releases/download/v0.3.0/ctrlz.exe';
 const OUTPUT_PATH = path.join(__dirname, 'ctrlz-bin.exe');
 
 console.log('📥 Descargando ctrlz desde:', BINARY_URL);
